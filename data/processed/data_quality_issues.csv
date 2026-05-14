@@ -1,0 +1,15 @@
+check_name,severity,issue_count,description
+duplicate_policy_ids,high,0,Policy IDs should be unique.
+missing_fleet_ids,critical,0,Fleet IDs are required across core tables.
+claims_without_policies,critical,0,Every claim must map to a policy.
+vehicles_without_fleets,critical,0,Every vehicle must map to a fleet.
+exposure_without_vehicles,critical,0,Every exposure record must map to a vehicle.
+negative_premium,critical,0,Premium cannot be negative.
+negative_incurred_loss,critical,0,Incurred loss cannot be negative.
+invalid_autonomy_levels,high,0,Autonomy level must be 0 through 5.
+expired_policies_marked_active,medium,0,Expired policies should not be active.
+claims_reported_before_loss,critical,0,Claims cannot be reported before loss date.
+earned_premium_gt_written,high,0,Earned premium should not exceed written premium.
+missing_sensor_data_autonomy_4_5,high,60,"Level 4/5 vehicles should have lidar, camera, and radar enabled."
+unusually_high_manual_override_rates,medium,1346,"Manual override rate should be reviewed when above 15 per 1,000 autonomous miles."
+unmatched_policy_claim_exposure_records,critical,0,Claimed vehicles should have exposure records.

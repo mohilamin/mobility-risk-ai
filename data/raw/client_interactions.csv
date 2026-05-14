@@ -1,0 +1,401 @@
+interaction_id,fleet_id,interaction_date,interaction_type,topic,recommendation_made,follow_up_required,business_owner
+INT-00001,FLT-0018,2025-06-05,QBR,route risk,monitor,True,Account Management
+INT-00002,FLT-0011,2025-07-26,QBR,maintenance controls,safety improvement,False,Pricing
+INT-00003,FLT-0040,2025-07-21,claims_review,autonomy operations,safety improvement,True,Underwriting
+INT-00004,FLT-0074,2025-07-27,claims_review,route risk,maintenance certification,True,Account Management
+INT-00005,FLT-0005,2025-12-14,QBR,claims trend,no action,True,Underwriting
+INT-00006,FLT-0066,2025-05-05,ad_hoc_analysis,claims trend,pricing review,True,Pricing
+INT-00007,FLT-0059,2025-10-30,renewal_review,safety program,safety improvement,False,Underwriting
+INT-00008,FLT-0045,2025-07-20,underwriting_review,safety program,safety improvement,True,Claims
+INT-00009,FLT-0033,2025-10-07,QBR,renewal pricing,pricing review,False,Pricing
+INT-00010,FLT-0058,2025-10-18,ad_hoc_analysis,route risk,maintenance certification,False,Claims
+INT-00011,FLT-0014,2025-03-10,renewal_review,maintenance controls,pricing review,False,Claims
+INT-00012,FLT-0041,2025-03-22,QBR,maintenance controls,no action,True,Claims
+INT-00013,FLT-0032,2025-10-29,ad_hoc_analysis,renewal pricing,no action,True,Risk Engineering
+INT-00014,FLT-0075,2025-12-13,ad_hoc_analysis,renewal pricing,safety improvement,False,Risk Engineering
+INT-00015,FLT-0003,2025-09-20,ad_hoc_analysis,autonomy operations,monitor,False,Underwriting
+INT-00016,FLT-0010,2025-05-16,renewal_review,maintenance controls,maintenance certification,False,Claims
+INT-00017,FLT-0009,2025-08-13,ad_hoc_analysis,renewal pricing,no action,True,Account Management
+INT-00018,FLT-0003,2025-03-26,claims_review,safety program,safety improvement,False,Pricing
+INT-00019,FLT-0034,2025-01-18,renewal_review,safety program,no action,False,Account Management
+INT-00020,FLT-0008,2025-06-20,underwriting_review,maintenance controls,no action,False,Pricing
+INT-00021,FLT-0015,2025-08-14,renewal_review,safety program,pricing review,False,Claims
+INT-00022,FLT-0022,2025-06-28,underwriting_review,route risk,monitor,False,Claims
+INT-00023,FLT-0017,2025-10-12,QBR,claims trend,no action,False,Claims
+INT-00024,FLT-0045,2025-12-19,ad_hoc_analysis,maintenance controls,pricing review,True,Risk Engineering
+INT-00025,FLT-0021,2025-06-27,renewal_review,route risk,safety improvement,False,Account Management
+INT-00026,FLT-0014,2025-03-07,claims_review,autonomy operations,monitor,False,Claims
+INT-00027,FLT-0079,2025-11-19,ad_hoc_analysis,autonomy operations,monitor,False,Account Management
+INT-00028,FLT-0062,2025-07-27,ad_hoc_analysis,renewal pricing,safety improvement,False,Pricing
+INT-00029,FLT-0023,2025-01-25,ad_hoc_analysis,autonomy operations,pricing review,True,Pricing
+INT-00030,FLT-0044,2025-02-28,claims_review,maintenance controls,safety improvement,False,Underwriting
+INT-00031,FLT-0041,2025-08-21,underwriting_review,autonomy operations,pricing review,False,Underwriting
+INT-00032,FLT-0033,2025-04-21,claims_review,renewal pricing,no action,True,Account Management
+INT-00033,FLT-0052,2025-07-20,renewal_review,claims trend,safety improvement,False,Claims
+INT-00034,FLT-0044,2025-05-10,ad_hoc_analysis,claims trend,pricing review,False,Pricing
+INT-00035,FLT-0047,2025-11-12,QBR,safety program,no action,False,Underwriting
+INT-00036,FLT-0002,2025-07-30,renewal_review,claims trend,no action,True,Risk Engineering
+INT-00037,FLT-0047,2025-02-26,ad_hoc_analysis,maintenance controls,monitor,False,Risk Engineering
+INT-00038,FLT-0015,2025-04-10,QBR,renewal pricing,monitor,True,Risk Engineering
+INT-00039,FLT-0076,2025-12-21,claims_review,safety program,no action,False,Risk Engineering
+INT-00040,FLT-0047,2025-05-03,renewal_review,route risk,safety improvement,True,Risk Engineering
+INT-00041,FLT-0017,2025-05-08,renewal_review,claims trend,monitor,False,Risk Engineering
+INT-00042,FLT-0039,2025-02-21,ad_hoc_analysis,maintenance controls,safety improvement,False,Account Management
+INT-00043,FLT-0053,2025-04-23,claims_review,route risk,pricing review,False,Account Management
+INT-00044,FLT-0017,2025-11-07,claims_review,maintenance controls,monitor,False,Underwriting
+INT-00045,FLT-0045,2025-06-06,claims_review,route risk,safety improvement,False,Pricing
+INT-00046,FLT-0026,2025-06-15,QBR,claims trend,maintenance certification,False,Pricing
+INT-00047,FLT-0052,2025-03-28,ad_hoc_analysis,renewal pricing,monitor,True,Pricing
+INT-00048,FLT-0035,2025-05-25,ad_hoc_analysis,renewal pricing,monitor,False,Risk Engineering
+INT-00049,FLT-0075,2025-04-30,underwriting_review,renewal pricing,maintenance certification,True,Risk Engineering
+INT-00050,FLT-0004,2025-08-13,underwriting_review,route risk,safety improvement,False,Risk Engineering
+INT-00051,FLT-0007,2025-07-24,ad_hoc_analysis,renewal pricing,safety improvement,True,Claims
+INT-00052,FLT-0059,2025-07-18,QBR,route risk,monitor,True,Pricing
+INT-00053,FLT-0021,2025-09-28,renewal_review,route risk,maintenance certification,False,Account Management
+INT-00054,FLT-0043,2025-05-07,ad_hoc_analysis,safety program,pricing review,False,Underwriting
+INT-00055,FLT-0062,2025-08-20,renewal_review,safety program,maintenance certification,True,Underwriting
+INT-00056,FLT-0010,2025-07-22,underwriting_review,route risk,pricing review,False,Pricing
+INT-00057,FLT-0044,2025-09-21,underwriting_review,route risk,monitor,True,Underwriting
+INT-00058,FLT-0023,2025-10-26,renewal_review,maintenance controls,maintenance certification,False,Underwriting
+INT-00059,FLT-0034,2025-10-21,underwriting_review,renewal pricing,safety improvement,False,Account Management
+INT-00060,FLT-0001,2025-07-14,underwriting_review,autonomy operations,pricing review,False,Claims
+INT-00061,FLT-0068,2025-02-07,ad_hoc_analysis,renewal pricing,maintenance certification,False,Underwriting
+INT-00062,FLT-0052,2025-01-19,renewal_review,maintenance controls,maintenance certification,True,Underwriting
+INT-00063,FLT-0028,2025-01-19,underwriting_review,autonomy operations,safety improvement,False,Underwriting
+INT-00064,FLT-0048,2025-06-15,underwriting_review,renewal pricing,monitor,False,Risk Engineering
+INT-00065,FLT-0029,2025-12-22,claims_review,safety program,no action,True,Risk Engineering
+INT-00066,FLT-0078,2025-05-09,claims_review,safety program,no action,True,Pricing
+INT-00067,FLT-0018,2025-01-12,QBR,route risk,monitor,False,Risk Engineering
+INT-00068,FLT-0044,2025-02-19,ad_hoc_analysis,claims trend,pricing review,True,Claims
+INT-00069,FLT-0079,2025-12-15,renewal_review,safety program,monitor,False,Underwriting
+INT-00070,FLT-0008,2025-08-29,QBR,maintenance controls,monitor,False,Underwriting
+INT-00071,FLT-0037,2025-06-21,underwriting_review,autonomy operations,monitor,False,Pricing
+INT-00072,FLT-0054,2025-03-02,underwriting_review,renewal pricing,maintenance certification,True,Risk Engineering
+INT-00073,FLT-0080,2025-05-18,underwriting_review,safety program,maintenance certification,True,Account Management
+INT-00074,FLT-0048,2025-01-25,ad_hoc_analysis,renewal pricing,maintenance certification,True,Pricing
+INT-00075,FLT-0064,2025-06-17,underwriting_review,claims trend,no action,False,Claims
+INT-00076,FLT-0050,2025-06-04,claims_review,renewal pricing,safety improvement,False,Claims
+INT-00077,FLT-0039,2025-03-08,QBR,safety program,pricing review,True,Underwriting
+INT-00078,FLT-0057,2025-05-26,QBR,route risk,maintenance certification,False,Risk Engineering
+INT-00079,FLT-0033,2025-11-05,underwriting_review,renewal pricing,pricing review,False,Underwriting
+INT-00080,FLT-0061,2025-09-26,QBR,route risk,safety improvement,True,Claims
+INT-00081,FLT-0007,2025-01-22,renewal_review,maintenance controls,no action,True,Underwriting
+INT-00082,FLT-0022,2025-03-27,QBR,renewal pricing,maintenance certification,False,Pricing
+INT-00083,FLT-0041,2025-07-10,renewal_review,maintenance controls,maintenance certification,False,Pricing
+INT-00084,FLT-0006,2025-03-16,underwriting_review,renewal pricing,monitor,False,Underwriting
+INT-00085,FLT-0034,2025-04-03,renewal_review,claims trend,monitor,True,Pricing
+INT-00086,FLT-0048,2025-07-23,QBR,renewal pricing,pricing review,True,Underwriting
+INT-00087,FLT-0036,2025-01-20,renewal_review,maintenance controls,no action,False,Underwriting
+INT-00088,FLT-0026,2025-12-01,ad_hoc_analysis,maintenance controls,maintenance certification,True,Pricing
+INT-00089,FLT-0076,2025-05-15,ad_hoc_analysis,claims trend,no action,False,Pricing
+INT-00090,FLT-0056,2025-11-26,claims_review,renewal pricing,no action,False,Pricing
+INT-00091,FLT-0028,2025-11-07,ad_hoc_analysis,claims trend,no action,False,Claims
+INT-00092,FLT-0055,2025-02-01,ad_hoc_analysis,autonomy operations,safety improvement,False,Underwriting
+INT-00093,FLT-0021,2025-08-10,QBR,safety program,no action,False,Claims
+INT-00094,FLT-0030,2025-10-11,ad_hoc_analysis,renewal pricing,safety improvement,False,Account Management
+INT-00095,FLT-0030,2025-03-02,ad_hoc_analysis,claims trend,pricing review,True,Account Management
+INT-00096,FLT-0029,2025-06-26,QBR,autonomy operations,monitor,False,Account Management
+INT-00097,FLT-0013,2025-12-28,QBR,safety program,pricing review,False,Account Management
+INT-00098,FLT-0029,2025-01-26,ad_hoc_analysis,maintenance controls,maintenance certification,True,Account Management
+INT-00099,FLT-0073,2025-03-13,underwriting_review,claims trend,monitor,False,Underwriting
+INT-00100,FLT-0005,2025-02-03,underwriting_review,renewal pricing,maintenance certification,True,Risk Engineering
+INT-00101,FLT-0037,2025-03-07,claims_review,claims trend,maintenance certification,False,Claims
+INT-00102,FLT-0053,2025-02-25,underwriting_review,safety program,monitor,False,Claims
+INT-00103,FLT-0043,2025-05-27,claims_review,route risk,safety improvement,True,Underwriting
+INT-00104,FLT-0055,2025-11-27,renewal_review,renewal pricing,monitor,False,Account Management
+INT-00105,FLT-0034,2025-12-31,underwriting_review,maintenance controls,safety improvement,True,Risk Engineering
+INT-00106,FLT-0024,2025-07-20,claims_review,claims trend,pricing review,False,Account Management
+INT-00107,FLT-0009,2025-05-18,underwriting_review,maintenance controls,safety improvement,True,Claims
+INT-00108,FLT-0025,2025-02-27,renewal_review,maintenance controls,safety improvement,True,Underwriting
+INT-00109,FLT-0027,2025-02-09,QBR,claims trend,monitor,False,Pricing
+INT-00110,FLT-0048,2025-05-17,ad_hoc_analysis,safety program,monitor,False,Risk Engineering
+INT-00111,FLT-0005,2025-04-15,underwriting_review,maintenance controls,monitor,False,Claims
+INT-00112,FLT-0024,2025-09-28,renewal_review,renewal pricing,monitor,False,Underwriting
+INT-00113,FLT-0004,2025-12-21,claims_review,autonomy operations,pricing review,True,Account Management
+INT-00114,FLT-0012,2025-02-10,ad_hoc_analysis,maintenance controls,maintenance certification,False,Risk Engineering
+INT-00115,FLT-0015,2025-05-02,renewal_review,safety program,maintenance certification,False,Underwriting
+INT-00116,FLT-0013,2025-01-30,renewal_review,maintenance controls,pricing review,False,Claims
+INT-00117,FLT-0030,2025-01-02,renewal_review,route risk,pricing review,True,Claims
+INT-00118,FLT-0022,2025-09-02,ad_hoc_analysis,maintenance controls,no action,True,Underwriting
+INT-00119,FLT-0006,2025-06-12,claims_review,safety program,safety improvement,False,Claims
+INT-00120,FLT-0042,2025-04-04,underwriting_review,autonomy operations,safety improvement,False,Underwriting
+INT-00121,FLT-0019,2025-10-09,QBR,renewal pricing,monitor,True,Account Management
+INT-00122,FLT-0038,2025-06-13,claims_review,route risk,no action,False,Risk Engineering
+INT-00123,FLT-0038,2025-10-29,ad_hoc_analysis,claims trend,safety improvement,False,Underwriting
+INT-00124,FLT-0017,2025-04-16,underwriting_review,safety program,monitor,True,Underwriting
+INT-00125,FLT-0014,2025-01-28,claims_review,route risk,pricing review,False,Claims
+INT-00126,FLT-0043,2025-06-15,QBR,maintenance controls,pricing review,True,Underwriting
+INT-00127,FLT-0004,2025-10-01,ad_hoc_analysis,maintenance controls,monitor,True,Pricing
+INT-00128,FLT-0014,2025-05-26,renewal_review,renewal pricing,safety improvement,False,Risk Engineering
+INT-00129,FLT-0043,2025-01-23,ad_hoc_analysis,maintenance controls,pricing review,True,Account Management
+INT-00130,FLT-0002,2025-08-19,underwriting_review,claims trend,maintenance certification,True,Claims
+INT-00131,FLT-0036,2025-02-06,underwriting_review,renewal pricing,pricing review,False,Account Management
+INT-00132,FLT-0051,2025-01-12,ad_hoc_analysis,renewal pricing,monitor,False,Account Management
+INT-00133,FLT-0056,2025-01-14,QBR,claims trend,safety improvement,False,Account Management
+INT-00134,FLT-0018,2025-10-23,underwriting_review,renewal pricing,no action,True,Risk Engineering
+INT-00135,FLT-0029,2025-05-06,renewal_review,renewal pricing,monitor,True,Claims
+INT-00136,FLT-0056,2025-07-03,renewal_review,autonomy operations,no action,False,Underwriting
+INT-00137,FLT-0017,2025-03-16,renewal_review,autonomy operations,pricing review,False,Claims
+INT-00138,FLT-0021,2025-05-17,underwriting_review,claims trend,monitor,False,Underwriting
+INT-00139,FLT-0035,2025-09-08,underwriting_review,maintenance controls,no action,False,Account Management
+INT-00140,FLT-0017,2025-03-11,claims_review,claims trend,pricing review,True,Risk Engineering
+INT-00141,FLT-0063,2025-08-27,QBR,claims trend,pricing review,True,Account Management
+INT-00142,FLT-0037,2025-01-08,ad_hoc_analysis,safety program,pricing review,False,Underwriting
+INT-00143,FLT-0060,2025-12-31,ad_hoc_analysis,maintenance controls,safety improvement,False,Claims
+INT-00144,FLT-0070,2025-06-20,underwriting_review,claims trend,no action,True,Underwriting
+INT-00145,FLT-0047,2025-09-01,ad_hoc_analysis,renewal pricing,monitor,True,Claims
+INT-00146,FLT-0035,2025-06-26,ad_hoc_analysis,safety program,maintenance certification,False,Account Management
+INT-00147,FLT-0015,2025-10-08,ad_hoc_analysis,safety program,maintenance certification,False,Claims
+INT-00148,FLT-0051,2025-10-04,underwriting_review,claims trend,pricing review,True,Underwriting
+INT-00149,FLT-0007,2025-07-21,ad_hoc_analysis,route risk,maintenance certification,True,Risk Engineering
+INT-00150,FLT-0006,2025-09-16,claims_review,safety program,safety improvement,True,Underwriting
+INT-00151,FLT-0070,2025-08-16,underwriting_review,route risk,maintenance certification,False,Risk Engineering
+INT-00152,FLT-0039,2025-10-28,claims_review,route risk,no action,False,Underwriting
+INT-00153,FLT-0020,2025-01-05,renewal_review,safety program,safety improvement,False,Pricing
+INT-00154,FLT-0039,2025-10-16,claims_review,autonomy operations,monitor,False,Underwriting
+INT-00155,FLT-0026,2025-04-01,QBR,maintenance controls,maintenance certification,True,Risk Engineering
+INT-00156,FLT-0004,2025-12-25,ad_hoc_analysis,maintenance controls,monitor,False,Claims
+INT-00157,FLT-0053,2025-04-06,QBR,safety program,safety improvement,False,Underwriting
+INT-00158,FLT-0079,2025-01-11,renewal_review,route risk,maintenance certification,False,Pricing
+INT-00159,FLT-0014,2025-04-03,QBR,route risk,monitor,False,Claims
+INT-00160,FLT-0036,2025-06-18,ad_hoc_analysis,route risk,no action,False,Account Management
+INT-00161,FLT-0045,2025-06-18,claims_review,claims trend,maintenance certification,False,Underwriting
+INT-00162,FLT-0012,2025-01-29,underwriting_review,route risk,maintenance certification,True,Account Management
+INT-00163,FLT-0045,2025-06-25,ad_hoc_analysis,safety program,maintenance certification,True,Account Management
+INT-00164,FLT-0017,2025-04-09,underwriting_review,safety program,monitor,False,Pricing
+INT-00165,FLT-0019,2025-12-17,underwriting_review,autonomy operations,pricing review,False,Account Management
+INT-00166,FLT-0060,2025-09-03,underwriting_review,autonomy operations,no action,True,Pricing
+INT-00167,FLT-0067,2025-03-10,underwriting_review,route risk,pricing review,False,Pricing
+INT-00168,FLT-0062,2025-06-05,underwriting_review,safety program,safety improvement,False,Pricing
+INT-00169,FLT-0048,2025-06-18,claims_review,route risk,pricing review,False,Underwriting
+INT-00170,FLT-0035,2025-04-25,renewal_review,claims trend,no action,True,Account Management
+INT-00171,FLT-0025,2025-06-04,claims_review,route risk,monitor,False,Risk Engineering
+INT-00172,FLT-0017,2025-01-07,renewal_review,renewal pricing,no action,False,Account Management
+INT-00173,FLT-0031,2025-04-07,underwriting_review,maintenance controls,pricing review,True,Risk Engineering
+INT-00174,FLT-0067,2025-06-16,underwriting_review,claims trend,pricing review,False,Risk Engineering
+INT-00175,FLT-0013,2025-04-10,renewal_review,autonomy operations,monitor,True,Account Management
+INT-00176,FLT-0001,2025-11-24,claims_review,route risk,safety improvement,True,Underwriting
+INT-00177,FLT-0065,2025-09-20,renewal_review,maintenance controls,no action,False,Claims
+INT-00178,FLT-0079,2025-12-21,ad_hoc_analysis,route risk,no action,False,Claims
+INT-00179,FLT-0070,2025-07-07,renewal_review,renewal pricing,maintenance certification,False,Risk Engineering
+INT-00180,FLT-0050,2025-04-29,claims_review,safety program,no action,True,Claims
+INT-00181,FLT-0014,2025-06-23,QBR,safety program,maintenance certification,False,Pricing
+INT-00182,FLT-0006,2025-05-07,underwriting_review,claims trend,safety improvement,False,Risk Engineering
+INT-00183,FLT-0065,2025-10-28,QBR,autonomy operations,safety improvement,False,Account Management
+INT-00184,FLT-0015,2025-12-10,QBR,claims trend,monitor,True,Pricing
+INT-00185,FLT-0005,2025-05-29,ad_hoc_analysis,safety program,no action,True,Pricing
+INT-00186,FLT-0058,2025-08-26,ad_hoc_analysis,claims trend,monitor,False,Pricing
+INT-00187,FLT-0044,2025-03-26,underwriting_review,autonomy operations,monitor,False,Risk Engineering
+INT-00188,FLT-0028,2025-02-08,renewal_review,claims trend,maintenance certification,True,Pricing
+INT-00189,FLT-0068,2025-03-16,claims_review,autonomy operations,pricing review,True,Underwriting
+INT-00190,FLT-0049,2025-09-25,renewal_review,maintenance controls,maintenance certification,False,Account Management
+INT-00191,FLT-0050,2025-03-08,ad_hoc_analysis,renewal pricing,pricing review,False,Account Management
+INT-00192,FLT-0076,2025-10-07,ad_hoc_analysis,safety program,pricing review,False,Claims
+INT-00193,FLT-0025,2025-09-04,renewal_review,claims trend,safety improvement,True,Pricing
+INT-00194,FLT-0011,2025-12-29,underwriting_review,maintenance controls,pricing review,False,Claims
+INT-00195,FLT-0048,2025-12-31,renewal_review,route risk,monitor,True,Pricing
+INT-00196,FLT-0065,2025-12-10,claims_review,claims trend,monitor,False,Account Management
+INT-00197,FLT-0029,2025-11-10,claims_review,autonomy operations,pricing review,False,Claims
+INT-00198,FLT-0017,2025-12-09,QBR,route risk,no action,False,Pricing
+INT-00199,FLT-0003,2025-09-11,renewal_review,maintenance controls,pricing review,False,Claims
+INT-00200,FLT-0063,2025-03-10,QBR,route risk,safety improvement,True,Underwriting
+INT-00201,FLT-0047,2025-05-06,claims_review,route risk,no action,False,Risk Engineering
+INT-00202,FLT-0056,2025-08-14,QBR,route risk,pricing review,True,Claims
+INT-00203,FLT-0015,2025-03-09,claims_review,route risk,monitor,False,Pricing
+INT-00204,FLT-0051,2025-05-29,ad_hoc_analysis,maintenance controls,no action,False,Risk Engineering
+INT-00205,FLT-0065,2025-09-25,renewal_review,maintenance controls,maintenance certification,False,Risk Engineering
+INT-00206,FLT-0035,2025-06-01,QBR,maintenance controls,maintenance certification,False,Claims
+INT-00207,FLT-0009,2025-04-05,claims_review,renewal pricing,pricing review,False,Underwriting
+INT-00208,FLT-0034,2025-09-02,renewal_review,route risk,safety improvement,True,Risk Engineering
+INT-00209,FLT-0058,2025-09-12,claims_review,autonomy operations,monitor,False,Underwriting
+INT-00210,FLT-0077,2025-04-20,claims_review,safety program,maintenance certification,False,Risk Engineering
+INT-00211,FLT-0043,2025-12-20,claims_review,claims trend,maintenance certification,True,Pricing
+INT-00212,FLT-0074,2025-10-06,claims_review,autonomy operations,safety improvement,True,Underwriting
+INT-00213,FLT-0070,2025-10-11,QBR,autonomy operations,monitor,True,Underwriting
+INT-00214,FLT-0028,2025-10-29,QBR,maintenance controls,monitor,False,Account Management
+INT-00215,FLT-0026,2025-01-15,underwriting_review,safety program,pricing review,True,Risk Engineering
+INT-00216,FLT-0040,2025-01-29,ad_hoc_analysis,renewal pricing,safety improvement,True,Claims
+INT-00217,FLT-0047,2025-11-14,underwriting_review,safety program,safety improvement,True,Risk Engineering
+INT-00218,FLT-0030,2025-02-08,renewal_review,maintenance controls,monitor,True,Underwriting
+INT-00219,FLT-0058,2025-12-17,underwriting_review,autonomy operations,no action,False,Underwriting
+INT-00220,FLT-0068,2025-06-13,claims_review,route risk,no action,True,Underwriting
+INT-00221,FLT-0036,2025-11-14,claims_review,claims trend,monitor,False,Underwriting
+INT-00222,FLT-0059,2025-09-21,QBR,maintenance controls,safety improvement,True,Underwriting
+INT-00223,FLT-0074,2025-11-30,claims_review,claims trend,safety improvement,True,Pricing
+INT-00224,FLT-0037,2025-12-20,renewal_review,renewal pricing,maintenance certification,False,Account Management
+INT-00225,FLT-0043,2025-01-13,claims_review,renewal pricing,maintenance certification,False,Risk Engineering
+INT-00226,FLT-0040,2025-12-17,QBR,autonomy operations,monitor,True,Pricing
+INT-00227,FLT-0080,2025-05-30,claims_review,maintenance controls,maintenance certification,True,Underwriting
+INT-00228,FLT-0076,2025-08-14,QBR,renewal pricing,monitor,False,Pricing
+INT-00229,FLT-0008,2025-01-02,claims_review,claims trend,monitor,False,Risk Engineering
+INT-00230,FLT-0037,2025-02-27,underwriting_review,claims trend,no action,True,Pricing
+INT-00231,FLT-0022,2025-07-01,QBR,renewal pricing,monitor,True,Account Management
+INT-00232,FLT-0080,2025-12-20,underwriting_review,renewal pricing,pricing review,True,Account Management
+INT-00233,FLT-0025,2025-03-14,QBR,claims trend,no action,False,Pricing
+INT-00234,FLT-0043,2025-07-29,ad_hoc_analysis,route risk,monitor,True,Account Management
+INT-00235,FLT-0055,2025-09-08,renewal_review,renewal pricing,no action,False,Claims
+INT-00236,FLT-0036,2025-08-05,renewal_review,autonomy operations,pricing review,False,Underwriting
+INT-00237,FLT-0018,2025-11-03,ad_hoc_analysis,safety program,monitor,False,Pricing
+INT-00238,FLT-0016,2025-03-31,QBR,renewal pricing,maintenance certification,True,Pricing
+INT-00239,FLT-0055,2025-04-08,underwriting_review,safety program,no action,False,Pricing
+INT-00240,FLT-0043,2025-05-20,claims_review,renewal pricing,safety improvement,False,Pricing
+INT-00241,FLT-0080,2025-07-04,renewal_review,claims trend,safety improvement,False,Pricing
+INT-00242,FLT-0058,2025-05-27,underwriting_review,claims trend,maintenance certification,True,Risk Engineering
+INT-00243,FLT-0062,2025-11-26,ad_hoc_analysis,autonomy operations,maintenance certification,True,Claims
+INT-00244,FLT-0007,2025-11-10,claims_review,renewal pricing,safety improvement,False,Pricing
+INT-00245,FLT-0074,2025-05-21,ad_hoc_analysis,route risk,monitor,True,Pricing
+INT-00246,FLT-0043,2025-01-16,QBR,route risk,pricing review,False,Account Management
+INT-00247,FLT-0033,2025-01-22,underwriting_review,route risk,monitor,False,Claims
+INT-00248,FLT-0038,2025-10-31,renewal_review,route risk,no action,True,Claims
+INT-00249,FLT-0006,2025-04-08,QBR,route risk,pricing review,False,Pricing
+INT-00250,FLT-0046,2025-12-19,underwriting_review,maintenance controls,maintenance certification,True,Pricing
+INT-00251,FLT-0051,2025-07-04,claims_review,claims trend,pricing review,True,Risk Engineering
+INT-00252,FLT-0003,2025-01-12,underwriting_review,route risk,monitor,True,Underwriting
+INT-00253,FLT-0041,2025-08-28,claims_review,renewal pricing,no action,True,Risk Engineering
+INT-00254,FLT-0068,2025-08-23,ad_hoc_analysis,renewal pricing,maintenance certification,False,Claims
+INT-00255,FLT-0001,2025-05-02,ad_hoc_analysis,autonomy operations,pricing review,False,Account Management
+INT-00256,FLT-0025,2025-09-24,ad_hoc_analysis,route risk,no action,False,Claims
+INT-00257,FLT-0015,2025-09-25,underwriting_review,route risk,maintenance certification,False,Underwriting
+INT-00258,FLT-0015,2025-04-17,ad_hoc_analysis,maintenance controls,pricing review,False,Pricing
+INT-00259,FLT-0028,2025-11-29,underwriting_review,renewal pricing,maintenance certification,False,Underwriting
+INT-00260,FLT-0040,2025-07-16,claims_review,route risk,pricing review,True,Risk Engineering
+INT-00261,FLT-0064,2025-11-13,renewal_review,route risk,monitor,False,Account Management
+INT-00262,FLT-0032,2025-02-24,ad_hoc_analysis,safety program,safety improvement,False,Underwriting
+INT-00263,FLT-0045,2025-09-13,claims_review,safety program,pricing review,False,Account Management
+INT-00264,FLT-0044,2025-02-24,renewal_review,maintenance controls,safety improvement,True,Underwriting
+INT-00265,FLT-0079,2025-01-31,QBR,claims trend,monitor,False,Pricing
+INT-00266,FLT-0034,2025-06-17,QBR,renewal pricing,monitor,False,Risk Engineering
+INT-00267,FLT-0079,2025-04-15,claims_review,route risk,safety improvement,True,Claims
+INT-00268,FLT-0011,2025-01-12,ad_hoc_analysis,route risk,no action,True,Underwriting
+INT-00269,FLT-0047,2025-02-26,QBR,safety program,monitor,False,Pricing
+INT-00270,FLT-0067,2025-09-07,renewal_review,claims trend,maintenance certification,False,Claims
+INT-00271,FLT-0021,2025-11-08,claims_review,autonomy operations,safety improvement,False,Risk Engineering
+INT-00272,FLT-0027,2025-09-11,ad_hoc_analysis,route risk,monitor,False,Claims
+INT-00273,FLT-0041,2025-07-07,underwriting_review,autonomy operations,maintenance certification,True,Pricing
+INT-00274,FLT-0033,2025-07-17,QBR,route risk,no action,False,Claims
+INT-00275,FLT-0011,2025-03-04,ad_hoc_analysis,renewal pricing,maintenance certification,True,Underwriting
+INT-00276,FLT-0045,2025-08-05,claims_review,safety program,maintenance certification,False,Underwriting
+INT-00277,FLT-0018,2025-12-09,QBR,claims trend,maintenance certification,False,Pricing
+INT-00278,FLT-0040,2025-08-02,ad_hoc_analysis,autonomy operations,no action,False,Account Management
+INT-00279,FLT-0017,2025-01-01,renewal_review,maintenance controls,no action,False,Risk Engineering
+INT-00280,FLT-0025,2025-07-08,QBR,claims trend,no action,False,Pricing
+INT-00281,FLT-0046,2025-12-14,claims_review,route risk,no action,True,Claims
+INT-00282,FLT-0030,2025-04-01,QBR,maintenance controls,no action,True,Pricing
+INT-00283,FLT-0002,2025-10-11,ad_hoc_analysis,claims trend,pricing review,False,Underwriting
+INT-00284,FLT-0016,2025-07-26,QBR,autonomy operations,safety improvement,False,Risk Engineering
+INT-00285,FLT-0021,2025-04-07,ad_hoc_analysis,renewal pricing,no action,False,Risk Engineering
+INT-00286,FLT-0072,2025-05-18,ad_hoc_analysis,safety program,maintenance certification,True,Risk Engineering
+INT-00287,FLT-0038,2025-11-17,QBR,autonomy operations,maintenance certification,False,Risk Engineering
+INT-00288,FLT-0038,2025-11-22,underwriting_review,safety program,maintenance certification,False,Claims
+INT-00289,FLT-0055,2025-05-12,claims_review,renewal pricing,maintenance certification,True,Underwriting
+INT-00290,FLT-0020,2025-02-21,ad_hoc_analysis,route risk,maintenance certification,True,Account Management
+INT-00291,FLT-0025,2025-05-19,claims_review,renewal pricing,safety improvement,False,Risk Engineering
+INT-00292,FLT-0060,2025-07-11,claims_review,safety program,safety improvement,False,Pricing
+INT-00293,FLT-0022,2025-07-19,underwriting_review,maintenance controls,safety improvement,False,Account Management
+INT-00294,FLT-0006,2025-10-12,ad_hoc_analysis,claims trend,pricing review,False,Claims
+INT-00295,FLT-0046,2025-08-22,QBR,claims trend,safety improvement,False,Claims
+INT-00296,FLT-0064,2025-09-26,QBR,route risk,maintenance certification,False,Underwriting
+INT-00297,FLT-0055,2025-01-15,ad_hoc_analysis,safety program,maintenance certification,False,Underwriting
+INT-00298,FLT-0043,2025-04-01,QBR,safety program,safety improvement,True,Underwriting
+INT-00299,FLT-0077,2025-02-02,ad_hoc_analysis,autonomy operations,maintenance certification,False,Risk Engineering
+INT-00300,FLT-0005,2025-07-31,underwriting_review,maintenance controls,maintenance certification,True,Pricing
+INT-00301,FLT-0036,2025-07-07,underwriting_review,route risk,monitor,False,Risk Engineering
+INT-00302,FLT-0054,2025-05-04,claims_review,autonomy operations,pricing review,True,Pricing
+INT-00303,FLT-0007,2025-02-01,QBR,maintenance controls,no action,False,Account Management
+INT-00304,FLT-0023,2025-05-03,claims_review,claims trend,no action,True,Account Management
+INT-00305,FLT-0024,2025-01-08,renewal_review,claims trend,maintenance certification,False,Pricing
+INT-00306,FLT-0009,2025-07-11,claims_review,maintenance controls,maintenance certification,False,Account Management
+INT-00307,FLT-0065,2025-05-21,ad_hoc_analysis,safety program,safety improvement,False,Account Management
+INT-00308,FLT-0009,2025-10-27,renewal_review,maintenance controls,safety improvement,False,Pricing
+INT-00309,FLT-0029,2025-09-04,claims_review,autonomy operations,no action,False,Pricing
+INT-00310,FLT-0070,2025-07-10,QBR,maintenance controls,maintenance certification,True,Claims
+INT-00311,FLT-0041,2025-08-09,ad_hoc_analysis,autonomy operations,monitor,True,Claims
+INT-00312,FLT-0037,2025-08-12,claims_review,maintenance controls,maintenance certification,True,Underwriting
+INT-00313,FLT-0032,2025-02-23,renewal_review,renewal pricing,maintenance certification,False,Account Management
+INT-00314,FLT-0016,2025-12-15,QBR,route risk,monitor,False,Risk Engineering
+INT-00315,FLT-0047,2025-12-07,claims_review,autonomy operations,safety improvement,False,Claims
+INT-00316,FLT-0007,2025-12-21,ad_hoc_analysis,route risk,no action,False,Underwriting
+INT-00317,FLT-0035,2025-09-19,claims_review,route risk,monitor,True,Risk Engineering
+INT-00318,FLT-0023,2025-12-28,QBR,claims trend,safety improvement,True,Pricing
+INT-00319,FLT-0027,2025-08-22,renewal_review,safety program,monitor,False,Account Management
+INT-00320,FLT-0013,2025-03-13,QBR,safety program,no action,True,Pricing
+INT-00321,FLT-0019,2025-02-02,ad_hoc_analysis,renewal pricing,pricing review,True,Account Management
+INT-00322,FLT-0027,2025-07-06,QBR,autonomy operations,no action,False,Underwriting
+INT-00323,FLT-0020,2025-05-10,underwriting_review,safety program,no action,False,Underwriting
+INT-00324,FLT-0026,2025-12-17,QBR,route risk,monitor,False,Account Management
+INT-00325,FLT-0047,2025-01-22,claims_review,claims trend,monitor,False,Claims
+INT-00326,FLT-0052,2025-06-01,claims_review,autonomy operations,monitor,True,Risk Engineering
+INT-00327,FLT-0015,2025-10-02,ad_hoc_analysis,renewal pricing,pricing review,False,Pricing
+INT-00328,FLT-0007,2025-12-27,underwriting_review,claims trend,safety improvement,True,Account Management
+INT-00329,FLT-0061,2025-11-17,underwriting_review,route risk,maintenance certification,True,Claims
+INT-00330,FLT-0005,2025-03-04,claims_review,claims trend,pricing review,False,Underwriting
+INT-00331,FLT-0039,2025-02-23,ad_hoc_analysis,safety program,no action,False,Claims
+INT-00332,FLT-0059,2025-08-12,renewal_review,route risk,safety improvement,True,Claims
+INT-00333,FLT-0078,2025-10-03,claims_review,renewal pricing,monitor,True,Claims
+INT-00334,FLT-0052,2025-10-22,renewal_review,safety program,pricing review,False,Underwriting
+INT-00335,FLT-0067,2025-04-11,ad_hoc_analysis,claims trend,monitor,True,Pricing
+INT-00336,FLT-0065,2025-11-22,renewal_review,maintenance controls,maintenance certification,True,Underwriting
+INT-00337,FLT-0066,2025-08-26,renewal_review,maintenance controls,monitor,True,Pricing
+INT-00338,FLT-0013,2025-04-28,ad_hoc_analysis,autonomy operations,pricing review,False,Pricing
+INT-00339,FLT-0026,2025-12-04,ad_hoc_analysis,safety program,monitor,False,Underwriting
+INT-00340,FLT-0009,2025-05-22,claims_review,maintenance controls,safety improvement,False,Underwriting
+INT-00341,FLT-0022,2025-11-07,claims_review,safety program,pricing review,False,Pricing
+INT-00342,FLT-0069,2025-10-16,underwriting_review,safety program,no action,True,Claims
+INT-00343,FLT-0028,2025-02-26,underwriting_review,safety program,pricing review,False,Risk Engineering
+INT-00344,FLT-0078,2025-10-22,QBR,route risk,safety improvement,True,Risk Engineering
+INT-00345,FLT-0075,2025-02-02,QBR,autonomy operations,no action,False,Underwriting
+INT-00346,FLT-0042,2025-04-24,claims_review,autonomy operations,no action,False,Risk Engineering
+INT-00347,FLT-0075,2025-12-28,QBR,renewal pricing,safety improvement,False,Underwriting
+INT-00348,FLT-0018,2025-09-23,claims_review,maintenance controls,no action,True,Underwriting
+INT-00349,FLT-0065,2025-09-08,renewal_review,renewal pricing,maintenance certification,False,Account Management
+INT-00350,FLT-0076,2025-05-22,claims_review,claims trend,no action,False,Claims
+INT-00351,FLT-0030,2025-04-07,renewal_review,autonomy operations,pricing review,False,Risk Engineering
+INT-00352,FLT-0062,2025-06-27,renewal_review,route risk,monitor,False,Pricing
+INT-00353,FLT-0031,2025-05-13,renewal_review,route risk,pricing review,False,Pricing
+INT-00354,FLT-0008,2025-02-13,claims_review,safety program,maintenance certification,False,Pricing
+INT-00355,FLT-0041,2025-11-22,QBR,claims trend,safety improvement,False,Underwriting
+INT-00356,FLT-0010,2025-08-02,ad_hoc_analysis,safety program,safety improvement,True,Underwriting
+INT-00357,FLT-0023,2025-06-06,ad_hoc_analysis,claims trend,no action,True,Pricing
+INT-00358,FLT-0063,2025-06-02,renewal_review,route risk,maintenance certification,True,Account Management
+INT-00359,FLT-0026,2025-10-31,claims_review,safety program,safety improvement,True,Underwriting
+INT-00360,FLT-0016,2025-07-02,underwriting_review,claims trend,pricing review,False,Claims
+INT-00361,FLT-0028,2025-10-06,claims_review,route risk,monitor,False,Account Management
+INT-00362,FLT-0071,2025-10-03,QBR,claims trend,safety improvement,False,Account Management
+INT-00363,FLT-0006,2025-06-09,underwriting_review,safety program,pricing review,True,Risk Engineering
+INT-00364,FLT-0038,2025-06-02,QBR,claims trend,monitor,True,Account Management
+INT-00365,FLT-0079,2025-07-24,underwriting_review,route risk,pricing review,False,Risk Engineering
+INT-00366,FLT-0020,2025-11-04,QBR,claims trend,safety improvement,False,Account Management
+INT-00367,FLT-0040,2025-02-07,underwriting_review,safety program,pricing review,True,Risk Engineering
+INT-00368,FLT-0067,2025-02-15,underwriting_review,safety program,no action,False,Claims
+INT-00369,FLT-0017,2025-02-07,underwriting_review,autonomy operations,maintenance certification,False,Risk Engineering
+INT-00370,FLT-0020,2025-09-09,QBR,route risk,monitor,True,Account Management
+INT-00371,FLT-0030,2025-09-20,claims_review,route risk,no action,False,Claims
+INT-00372,FLT-0011,2025-09-18,renewal_review,claims trend,maintenance certification,True,Claims
+INT-00373,FLT-0007,2025-02-13,renewal_review,safety program,pricing review,False,Pricing
+INT-00374,FLT-0020,2025-10-07,claims_review,safety program,pricing review,True,Underwriting
+INT-00375,FLT-0009,2025-01-05,QBR,claims trend,monitor,False,Claims
+INT-00376,FLT-0064,2025-01-23,underwriting_review,claims trend,pricing review,True,Underwriting
+INT-00377,FLT-0031,2025-03-18,ad_hoc_analysis,claims trend,safety improvement,False,Risk Engineering
+INT-00378,FLT-0004,2025-09-09,ad_hoc_analysis,maintenance controls,maintenance certification,False,Pricing
+INT-00379,FLT-0060,2025-10-03,claims_review,renewal pricing,no action,False,Risk Engineering
+INT-00380,FLT-0046,2025-07-18,underwriting_review,claims trend,maintenance certification,False,Claims
+INT-00381,FLT-0026,2025-09-22,underwriting_review,maintenance controls,monitor,False,Account Management
+INT-00382,FLT-0009,2025-08-01,claims_review,autonomy operations,maintenance certification,True,Pricing
+INT-00383,FLT-0003,2025-02-05,renewal_review,safety program,pricing review,True,Underwriting
+INT-00384,FLT-0008,2025-11-02,QBR,maintenance controls,maintenance certification,True,Claims
+INT-00385,FLT-0048,2025-08-21,claims_review,renewal pricing,pricing review,False,Risk Engineering
+INT-00386,FLT-0071,2025-09-26,claims_review,maintenance controls,safety improvement,True,Pricing
+INT-00387,FLT-0045,2025-02-24,renewal_review,claims trend,no action,True,Pricing
+INT-00388,FLT-0060,2025-03-20,renewal_review,route risk,maintenance certification,False,Pricing
+INT-00389,FLT-0078,2025-03-14,underwriting_review,route risk,maintenance certification,False,Account Management
+INT-00390,FLT-0006,2025-09-07,QBR,renewal pricing,monitor,False,Underwriting
+INT-00391,FLT-0061,2025-07-28,renewal_review,maintenance controls,no action,False,Risk Engineering
+INT-00392,FLT-0012,2025-06-16,ad_hoc_analysis,maintenance controls,maintenance certification,False,Account Management
+INT-00393,FLT-0028,2025-06-22,underwriting_review,claims trend,no action,False,Pricing
+INT-00394,FLT-0064,2025-02-09,underwriting_review,renewal pricing,pricing review,False,Account Management
+INT-00395,FLT-0037,2025-01-18,QBR,renewal pricing,safety improvement,False,Pricing
+INT-00396,FLT-0057,2025-01-13,renewal_review,claims trend,safety improvement,False,Risk Engineering
+INT-00397,FLT-0007,2025-03-30,ad_hoc_analysis,renewal pricing,no action,False,Account Management
+INT-00398,FLT-0021,2025-03-15,claims_review,safety program,safety improvement,False,Claims
+INT-00399,FLT-0041,2025-02-23,QBR,claims trend,maintenance certification,False,Claims
+INT-00400,FLT-0066,2025-08-03,claims_review,safety program,safety improvement,False,Underwriting

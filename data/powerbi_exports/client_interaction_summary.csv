@@ -1,0 +1,371 @@
+fleet_id,interaction_type,business_owner,interactions,follow_ups
+FLT-0001,ad_hoc_analysis,Account Management,1,0
+FLT-0001,claims_review,Underwriting,1,1
+FLT-0001,underwriting_review,Claims,1,0
+FLT-0002,ad_hoc_analysis,Underwriting,1,0
+FLT-0002,renewal_review,Risk Engineering,1,1
+FLT-0002,underwriting_review,Claims,1,1
+FLT-0003,ad_hoc_analysis,Underwriting,1,0
+FLT-0003,claims_review,Pricing,1,0
+FLT-0003,renewal_review,Claims,1,0
+FLT-0003,renewal_review,Underwriting,1,1
+FLT-0003,underwriting_review,Underwriting,1,1
+FLT-0004,ad_hoc_analysis,Claims,1,0
+FLT-0004,ad_hoc_analysis,Pricing,2,1
+FLT-0004,claims_review,Account Management,1,1
+FLT-0004,underwriting_review,Risk Engineering,1,0
+FLT-0005,QBR,Underwriting,1,1
+FLT-0005,ad_hoc_analysis,Pricing,1,1
+FLT-0005,claims_review,Underwriting,1,0
+FLT-0005,underwriting_review,Claims,1,0
+FLT-0005,underwriting_review,Pricing,1,1
+FLT-0005,underwriting_review,Risk Engineering,1,1
+FLT-0006,QBR,Pricing,1,0
+FLT-0006,QBR,Underwriting,1,0
+FLT-0006,ad_hoc_analysis,Claims,1,0
+FLT-0006,claims_review,Claims,1,0
+FLT-0006,claims_review,Underwriting,1,1
+FLT-0006,underwriting_review,Risk Engineering,2,1
+FLT-0006,underwriting_review,Underwriting,1,0
+FLT-0007,QBR,Account Management,1,0
+FLT-0007,ad_hoc_analysis,Account Management,1,0
+FLT-0007,ad_hoc_analysis,Claims,1,1
+FLT-0007,ad_hoc_analysis,Risk Engineering,1,1
+FLT-0007,ad_hoc_analysis,Underwriting,1,0
+FLT-0007,claims_review,Pricing,1,0
+FLT-0007,renewal_review,Pricing,1,0
+FLT-0007,renewal_review,Underwriting,1,1
+FLT-0007,underwriting_review,Account Management,1,1
+FLT-0008,QBR,Claims,1,1
+FLT-0008,QBR,Underwriting,1,0
+FLT-0008,claims_review,Pricing,1,0
+FLT-0008,claims_review,Risk Engineering,1,0
+FLT-0008,underwriting_review,Pricing,1,0
+FLT-0009,QBR,Claims,1,0
+FLT-0009,ad_hoc_analysis,Account Management,1,1
+FLT-0009,claims_review,Account Management,1,0
+FLT-0009,claims_review,Pricing,1,1
+FLT-0009,claims_review,Underwriting,2,0
+FLT-0009,renewal_review,Pricing,1,0
+FLT-0009,underwriting_review,Claims,1,1
+FLT-0010,ad_hoc_analysis,Underwriting,1,1
+FLT-0010,renewal_review,Claims,1,0
+FLT-0010,underwriting_review,Pricing,1,0
+FLT-0011,QBR,Pricing,1,0
+FLT-0011,ad_hoc_analysis,Underwriting,2,2
+FLT-0011,renewal_review,Claims,1,1
+FLT-0011,underwriting_review,Claims,1,0
+FLT-0012,ad_hoc_analysis,Account Management,1,0
+FLT-0012,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0012,underwriting_review,Account Management,1,1
+FLT-0013,QBR,Account Management,1,0
+FLT-0013,QBR,Pricing,1,1
+FLT-0013,ad_hoc_analysis,Pricing,1,0
+FLT-0013,renewal_review,Account Management,1,1
+FLT-0013,renewal_review,Claims,1,0
+FLT-0014,QBR,Claims,1,0
+FLT-0014,QBR,Pricing,1,0
+FLT-0014,claims_review,Claims,2,0
+FLT-0014,renewal_review,Claims,1,0
+FLT-0014,renewal_review,Risk Engineering,1,0
+FLT-0015,QBR,Pricing,1,1
+FLT-0015,QBR,Risk Engineering,1,1
+FLT-0015,ad_hoc_analysis,Claims,1,0
+FLT-0015,ad_hoc_analysis,Pricing,2,0
+FLT-0015,claims_review,Pricing,1,0
+FLT-0015,renewal_review,Claims,1,0
+FLT-0015,renewal_review,Underwriting,1,0
+FLT-0015,underwriting_review,Underwriting,1,0
+FLT-0016,QBR,Pricing,1,1
+FLT-0016,QBR,Risk Engineering,2,0
+FLT-0016,underwriting_review,Claims,1,0
+FLT-0017,QBR,Claims,1,0
+FLT-0017,QBR,Pricing,1,0
+FLT-0017,claims_review,Risk Engineering,1,1
+FLT-0017,claims_review,Underwriting,1,0
+FLT-0017,renewal_review,Account Management,1,0
+FLT-0017,renewal_review,Claims,1,0
+FLT-0017,renewal_review,Risk Engineering,2,0
+FLT-0017,underwriting_review,Pricing,1,0
+FLT-0017,underwriting_review,Risk Engineering,1,0
+FLT-0017,underwriting_review,Underwriting,1,1
+FLT-0018,QBR,Account Management,1,1
+FLT-0018,QBR,Pricing,1,0
+FLT-0018,QBR,Risk Engineering,1,0
+FLT-0018,ad_hoc_analysis,Pricing,1,0
+FLT-0018,claims_review,Underwriting,1,1
+FLT-0018,underwriting_review,Risk Engineering,1,1
+FLT-0019,QBR,Account Management,1,1
+FLT-0019,ad_hoc_analysis,Account Management,1,1
+FLT-0019,underwriting_review,Account Management,1,0
+FLT-0020,QBR,Account Management,2,1
+FLT-0020,ad_hoc_analysis,Account Management,1,1
+FLT-0020,claims_review,Underwriting,1,1
+FLT-0020,renewal_review,Pricing,1,0
+FLT-0020,underwriting_review,Underwriting,1,0
+FLT-0021,QBR,Claims,1,0
+FLT-0021,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0021,claims_review,Claims,1,0
+FLT-0021,claims_review,Risk Engineering,1,0
+FLT-0021,renewal_review,Account Management,2,0
+FLT-0021,underwriting_review,Underwriting,1,0
+FLT-0022,QBR,Account Management,1,1
+FLT-0022,QBR,Pricing,1,0
+FLT-0022,ad_hoc_analysis,Underwriting,1,1
+FLT-0022,claims_review,Pricing,1,0
+FLT-0022,underwriting_review,Account Management,1,0
+FLT-0022,underwriting_review,Claims,1,0
+FLT-0023,QBR,Pricing,1,1
+FLT-0023,ad_hoc_analysis,Pricing,2,2
+FLT-0023,claims_review,Account Management,1,1
+FLT-0023,renewal_review,Underwriting,1,0
+FLT-0024,claims_review,Account Management,1,0
+FLT-0024,renewal_review,Pricing,1,0
+FLT-0024,renewal_review,Underwriting,1,0
+FLT-0025,QBR,Pricing,2,0
+FLT-0025,ad_hoc_analysis,Claims,1,0
+FLT-0025,claims_review,Risk Engineering,2,0
+FLT-0025,renewal_review,Pricing,1,1
+FLT-0025,renewal_review,Underwriting,1,1
+FLT-0026,QBR,Account Management,1,0
+FLT-0026,QBR,Pricing,1,0
+FLT-0026,QBR,Risk Engineering,1,1
+FLT-0026,ad_hoc_analysis,Pricing,1,1
+FLT-0026,ad_hoc_analysis,Underwriting,1,0
+FLT-0026,claims_review,Underwriting,1,1
+FLT-0026,underwriting_review,Account Management,1,0
+FLT-0026,underwriting_review,Risk Engineering,1,1
+FLT-0027,QBR,Pricing,1,0
+FLT-0027,QBR,Underwriting,1,0
+FLT-0027,ad_hoc_analysis,Claims,1,0
+FLT-0027,renewal_review,Account Management,1,0
+FLT-0028,QBR,Account Management,1,0
+FLT-0028,ad_hoc_analysis,Claims,1,0
+FLT-0028,claims_review,Account Management,1,0
+FLT-0028,renewal_review,Pricing,1,1
+FLT-0028,underwriting_review,Pricing,1,0
+FLT-0028,underwriting_review,Risk Engineering,1,0
+FLT-0028,underwriting_review,Underwriting,2,0
+FLT-0029,QBR,Account Management,1,0
+FLT-0029,ad_hoc_analysis,Account Management,1,1
+FLT-0029,claims_review,Claims,1,0
+FLT-0029,claims_review,Pricing,1,0
+FLT-0029,claims_review,Risk Engineering,1,1
+FLT-0029,renewal_review,Claims,1,1
+FLT-0030,QBR,Pricing,1,1
+FLT-0030,ad_hoc_analysis,Account Management,2,1
+FLT-0030,claims_review,Claims,1,0
+FLT-0030,renewal_review,Claims,1,1
+FLT-0030,renewal_review,Risk Engineering,1,0
+FLT-0030,renewal_review,Underwriting,1,1
+FLT-0031,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0031,renewal_review,Pricing,1,0
+FLT-0031,underwriting_review,Risk Engineering,1,1
+FLT-0032,ad_hoc_analysis,Risk Engineering,1,1
+FLT-0032,ad_hoc_analysis,Underwriting,1,0
+FLT-0032,renewal_review,Account Management,1,0
+FLT-0033,QBR,Claims,1,0
+FLT-0033,QBR,Pricing,1,0
+FLT-0033,claims_review,Account Management,1,1
+FLT-0033,underwriting_review,Claims,1,0
+FLT-0033,underwriting_review,Underwriting,1,0
+FLT-0034,QBR,Risk Engineering,1,0
+FLT-0034,renewal_review,Account Management,1,0
+FLT-0034,renewal_review,Pricing,1,1
+FLT-0034,renewal_review,Risk Engineering,1,1
+FLT-0034,underwriting_review,Account Management,1,0
+FLT-0034,underwriting_review,Risk Engineering,1,1
+FLT-0035,QBR,Claims,1,0
+FLT-0035,ad_hoc_analysis,Account Management,1,0
+FLT-0035,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0035,claims_review,Risk Engineering,1,1
+FLT-0035,renewal_review,Account Management,1,1
+FLT-0035,underwriting_review,Account Management,1,0
+FLT-0036,ad_hoc_analysis,Account Management,1,0
+FLT-0036,claims_review,Underwriting,1,0
+FLT-0036,renewal_review,Underwriting,2,0
+FLT-0036,underwriting_review,Account Management,1,0
+FLT-0036,underwriting_review,Risk Engineering,1,0
+FLT-0037,QBR,Pricing,1,0
+FLT-0037,ad_hoc_analysis,Underwriting,1,0
+FLT-0037,claims_review,Claims,1,0
+FLT-0037,claims_review,Underwriting,1,1
+FLT-0037,renewal_review,Account Management,1,0
+FLT-0037,underwriting_review,Pricing,2,1
+FLT-0038,QBR,Account Management,1,1
+FLT-0038,QBR,Risk Engineering,1,0
+FLT-0038,ad_hoc_analysis,Underwriting,1,0
+FLT-0038,claims_review,Risk Engineering,1,0
+FLT-0038,renewal_review,Claims,1,1
+FLT-0038,underwriting_review,Claims,1,0
+FLT-0039,QBR,Underwriting,1,1
+FLT-0039,ad_hoc_analysis,Account Management,1,0
+FLT-0039,ad_hoc_analysis,Claims,1,0
+FLT-0039,claims_review,Underwriting,2,0
+FLT-0040,QBR,Pricing,1,1
+FLT-0040,ad_hoc_analysis,Account Management,1,0
+FLT-0040,ad_hoc_analysis,Claims,1,1
+FLT-0040,claims_review,Risk Engineering,1,1
+FLT-0040,claims_review,Underwriting,1,1
+FLT-0040,underwriting_review,Risk Engineering,1,1
+FLT-0041,QBR,Claims,2,1
+FLT-0041,QBR,Underwriting,1,0
+FLT-0041,ad_hoc_analysis,Claims,1,1
+FLT-0041,claims_review,Risk Engineering,1,1
+FLT-0041,renewal_review,Pricing,1,0
+FLT-0041,underwriting_review,Pricing,1,1
+FLT-0041,underwriting_review,Underwriting,1,0
+FLT-0042,claims_review,Risk Engineering,1,0
+FLT-0042,underwriting_review,Underwriting,1,0
+FLT-0043,QBR,Account Management,1,0
+FLT-0043,QBR,Underwriting,2,2
+FLT-0043,ad_hoc_analysis,Account Management,2,2
+FLT-0043,ad_hoc_analysis,Underwriting,1,0
+FLT-0043,claims_review,Pricing,2,1
+FLT-0043,claims_review,Risk Engineering,1,0
+FLT-0043,claims_review,Underwriting,1,1
+FLT-0044,ad_hoc_analysis,Claims,1,1
+FLT-0044,ad_hoc_analysis,Pricing,1,0
+FLT-0044,claims_review,Underwriting,1,0
+FLT-0044,renewal_review,Underwriting,1,1
+FLT-0044,underwriting_review,Risk Engineering,1,0
+FLT-0044,underwriting_review,Underwriting,1,1
+FLT-0045,ad_hoc_analysis,Account Management,1,1
+FLT-0045,ad_hoc_analysis,Risk Engineering,1,1
+FLT-0045,claims_review,Account Management,1,0
+FLT-0045,claims_review,Pricing,1,0
+FLT-0045,claims_review,Underwriting,2,0
+FLT-0045,renewal_review,Pricing,1,1
+FLT-0045,underwriting_review,Claims,1,1
+FLT-0046,QBR,Claims,1,0
+FLT-0046,claims_review,Claims,1,1
+FLT-0046,underwriting_review,Claims,1,0
+FLT-0046,underwriting_review,Pricing,1,1
+FLT-0047,QBR,Pricing,1,0
+FLT-0047,QBR,Underwriting,1,0
+FLT-0047,ad_hoc_analysis,Claims,1,1
+FLT-0047,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0047,claims_review,Claims,2,0
+FLT-0047,claims_review,Risk Engineering,1,0
+FLT-0047,renewal_review,Risk Engineering,1,1
+FLT-0047,underwriting_review,Risk Engineering,1,1
+FLT-0048,QBR,Underwriting,1,1
+FLT-0048,ad_hoc_analysis,Pricing,1,1
+FLT-0048,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0048,claims_review,Risk Engineering,1,0
+FLT-0048,claims_review,Underwriting,1,0
+FLT-0048,renewal_review,Pricing,1,1
+FLT-0048,underwriting_review,Risk Engineering,1,0
+FLT-0049,renewal_review,Account Management,1,0
+FLT-0050,ad_hoc_analysis,Account Management,1,0
+FLT-0050,claims_review,Claims,2,1
+FLT-0051,ad_hoc_analysis,Account Management,1,0
+FLT-0051,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0051,claims_review,Risk Engineering,1,1
+FLT-0051,underwriting_review,Underwriting,1,1
+FLT-0052,ad_hoc_analysis,Pricing,1,1
+FLT-0052,claims_review,Risk Engineering,1,1
+FLT-0052,renewal_review,Claims,1,0
+FLT-0052,renewal_review,Underwriting,2,1
+FLT-0053,QBR,Underwriting,1,0
+FLT-0053,claims_review,Account Management,1,0
+FLT-0053,underwriting_review,Claims,1,0
+FLT-0054,claims_review,Pricing,1,1
+FLT-0054,underwriting_review,Risk Engineering,1,1
+FLT-0055,ad_hoc_analysis,Underwriting,2,0
+FLT-0055,claims_review,Underwriting,1,1
+FLT-0055,renewal_review,Account Management,1,0
+FLT-0055,renewal_review,Claims,1,0
+FLT-0055,underwriting_review,Pricing,1,0
+FLT-0056,QBR,Account Management,1,0
+FLT-0056,QBR,Claims,1,1
+FLT-0056,claims_review,Pricing,1,0
+FLT-0056,renewal_review,Underwriting,1,0
+FLT-0057,QBR,Risk Engineering,1,0
+FLT-0057,renewal_review,Risk Engineering,1,0
+FLT-0058,ad_hoc_analysis,Claims,1,0
+FLT-0058,ad_hoc_analysis,Pricing,1,0
+FLT-0058,claims_review,Underwriting,1,0
+FLT-0058,underwriting_review,Risk Engineering,1,1
+FLT-0058,underwriting_review,Underwriting,1,0
+FLT-0059,QBR,Pricing,1,1
+FLT-0059,QBR,Underwriting,1,1
+FLT-0059,renewal_review,Claims,1,1
+FLT-0059,renewal_review,Underwriting,1,0
+FLT-0060,ad_hoc_analysis,Claims,1,0
+FLT-0060,claims_review,Pricing,1,0
+FLT-0060,claims_review,Risk Engineering,1,0
+FLT-0060,renewal_review,Pricing,1,0
+FLT-0060,underwriting_review,Pricing,1,1
+FLT-0061,QBR,Claims,1,1
+FLT-0061,renewal_review,Risk Engineering,1,0
+FLT-0061,underwriting_review,Claims,1,1
+FLT-0062,ad_hoc_analysis,Claims,1,1
+FLT-0062,ad_hoc_analysis,Pricing,1,0
+FLT-0062,renewal_review,Pricing,1,0
+FLT-0062,renewal_review,Underwriting,1,1
+FLT-0062,underwriting_review,Pricing,1,0
+FLT-0063,QBR,Account Management,1,1
+FLT-0063,QBR,Underwriting,1,1
+FLT-0063,renewal_review,Account Management,1,1
+FLT-0064,QBR,Underwriting,1,0
+FLT-0064,renewal_review,Account Management,1,0
+FLT-0064,underwriting_review,Account Management,1,0
+FLT-0064,underwriting_review,Claims,1,0
+FLT-0064,underwriting_review,Underwriting,1,1
+FLT-0065,QBR,Account Management,1,0
+FLT-0065,ad_hoc_analysis,Account Management,1,0
+FLT-0065,claims_review,Account Management,1,0
+FLT-0065,renewal_review,Account Management,1,0
+FLT-0065,renewal_review,Claims,1,0
+FLT-0065,renewal_review,Risk Engineering,1,0
+FLT-0065,renewal_review,Underwriting,1,1
+FLT-0066,ad_hoc_analysis,Pricing,1,1
+FLT-0066,claims_review,Underwriting,1,0
+FLT-0066,renewal_review,Pricing,1,1
+FLT-0067,ad_hoc_analysis,Pricing,1,1
+FLT-0067,renewal_review,Claims,1,0
+FLT-0067,underwriting_review,Claims,1,0
+FLT-0067,underwriting_review,Pricing,1,0
+FLT-0067,underwriting_review,Risk Engineering,1,0
+FLT-0068,ad_hoc_analysis,Claims,1,0
+FLT-0068,ad_hoc_analysis,Underwriting,1,0
+FLT-0068,claims_review,Underwriting,2,2
+FLT-0069,underwriting_review,Claims,1,1
+FLT-0070,QBR,Claims,1,1
+FLT-0070,QBR,Underwriting,1,1
+FLT-0070,renewal_review,Risk Engineering,1,0
+FLT-0070,underwriting_review,Risk Engineering,1,0
+FLT-0070,underwriting_review,Underwriting,1,1
+FLT-0071,QBR,Account Management,1,0
+FLT-0071,claims_review,Pricing,1,1
+FLT-0072,ad_hoc_analysis,Risk Engineering,1,1
+FLT-0073,underwriting_review,Underwriting,1,0
+FLT-0074,ad_hoc_analysis,Pricing,1,1
+FLT-0074,claims_review,Account Management,1,1
+FLT-0074,claims_review,Pricing,1,1
+FLT-0074,claims_review,Underwriting,1,1
+FLT-0075,QBR,Underwriting,2,0
+FLT-0075,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0075,underwriting_review,Risk Engineering,1,1
+FLT-0076,QBR,Pricing,1,0
+FLT-0076,ad_hoc_analysis,Claims,1,0
+FLT-0076,ad_hoc_analysis,Pricing,1,0
+FLT-0076,claims_review,Claims,1,0
+FLT-0076,claims_review,Risk Engineering,1,0
+FLT-0077,ad_hoc_analysis,Risk Engineering,1,0
+FLT-0077,claims_review,Risk Engineering,1,0
+FLT-0078,QBR,Risk Engineering,1,1
+FLT-0078,claims_review,Claims,1,1
+FLT-0078,claims_review,Pricing,1,1
+FLT-0078,underwriting_review,Account Management,1,0
+FLT-0079,QBR,Pricing,1,0
+FLT-0079,ad_hoc_analysis,Account Management,1,0
+FLT-0079,ad_hoc_analysis,Claims,1,0
+FLT-0079,claims_review,Claims,1,1
+FLT-0079,renewal_review,Pricing,1,0
+FLT-0079,renewal_review,Underwriting,1,0
+FLT-0079,underwriting_review,Risk Engineering,1,0
+FLT-0080,claims_review,Underwriting,1,1
+FLT-0080,renewal_review,Pricing,1,0
+FLT-0080,underwriting_review,Account Management,2,2

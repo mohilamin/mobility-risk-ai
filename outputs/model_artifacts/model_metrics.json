@@ -1,0 +1,13 @@
+{
+  "risk_classifier": {
+    "accuracy": 0.9917,
+    "precision": 0.9724,
+    "recall": 1.0,
+    "f1": 0.986
+  },
+  "severity_regressor": {
+    "mae": 2983.6,
+    "rmse": 6588.07,
+    "r2": 0.8474
+  }
+}
